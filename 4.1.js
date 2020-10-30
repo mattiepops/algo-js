@@ -9,4 +9,3 @@ let calcSurface = (a, b) => {
   }
   
 console.log(calcSurface(a, b))
-
